@@ -2,7 +2,7 @@
      😎 Projeto concluído 😎
 </h4>
 <h1 align="center"> Verificador de Idade </h1>
-<p>Aplicação web feita durante o curso do Gustavo Guanabara (Canal Curso em vídeo) que, após a inserção da data de nascimento por parte do usuário, retorna sua idade atual e imagem representativa de alguém em sua faixa etária.</p>
+<p>Aplicação web feita durante o curso do professor Gustavo Guanabara (Canal Curso em vídeo) que, após a inserção da data de nascimento por parte do usuário, retorna sua idade atual e imagem representativa de alguém em sua faixa etária.</p>
 
 <div style="display: inline_block"><br>
   <h2 align="center"> Tecnologias utilizadas:</h2>
