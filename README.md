@@ -17,7 +17,7 @@
   <p> A aplicação funciona da seguinte maneira: </p>
 <ol> 
   <li>É solicitado ao usuário seu ano de nascimento e sexo;</li>
-  <li>Ao clicar em verificar, a aplicação retorna sua idade atual e uma imagem representativa de alguém em sua mesma faixa etária e mesmo sexo.</li>
+  <li>Ao preencher as informações solicitadas corretamente e clicar em verificar, a aplicação retorna sua idade atual e uma imagem representativa de alguém em sua mesma faixa etária e mesmo sexo.</li>
 </ol>
 
 
